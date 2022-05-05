@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - NextLevel
+  - Collectable
+  - Bin
+  - Wall
+  - Enemy
+  - Wave
+  - Stone
+  - CantMove
+  - Die
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - bgForCam
+  - force
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: back
+    uniqueID: 3098139985
+    locked: 0
+  - name: force
+    uniqueID: 900825793
+    locked: 0
+  - name: player
+    uniqueID: 2048726887
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
